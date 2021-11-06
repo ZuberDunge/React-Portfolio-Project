@@ -1,0 +1,84 @@
+.Testimonial-section {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 32px #0404043D;
+    border-radius: 10px;
+    max-width: 1400px;
+    width: 100%;
+    margin: auto auto 4rem auto;
+
+}
+
+.resume-section h1 {
+    padding-bottom: 5px;
+    border-bottom: 5px solid #FCA738;
+    width: fit-content;
+    margin: auto;
+}
+
+.test-head {
+
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 10px;
+    border-bottom: 5px solid #FCA738;
+    width: fit-content;
+    margin: auto;
+}
+
+.people-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 2% 3% 0% 3%;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: #F7F7F7;
+    padding: 1rem;
+    text-align: center;
+    max-width: 300px;
+}
+
+.avtar img {
+    width: 180px;
+    border-radius: 50%;
+    height: 180px;
+    margin: auto;
+    padding: 1rem;
+
+}
+
+.ppl-name {
+    color: #373742;
+    font-size: 24px;
+    text-align: center;
+}
+
+.ppl-comp {
+    color: #7B7B88;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card p {
+    color: #4F4F53;
+    text-align: center;
+    padding: 1rem;
+}
+
+.view-more-test {
+    height: 88px;
+    background: #FBF3E4 0% 0% no-repeat padding-box;
+    border-radius: 0px 0px 10px 10px;
+    opacity: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FCA738;
+    font-size: 20px;
+    font-weight: 500;
+    gap: 1rem;
+}

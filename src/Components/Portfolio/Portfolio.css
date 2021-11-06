@@ -1,0 +1,40 @@
+.portfolio-section {
+    text-align: center;
+    margin: auto;
+
+    max-width: 1400px;
+    width: 100%;
+
+}
+
+.portfolio-section h1 {
+    color: #105652;
+    padding-bottom: 5px;
+    border-bottom: 5px solid #FCA738;
+    width: fit-content;
+    margin: auto auto 0 auto;
+}
+
+
+@media screen and (max-width: 800px) {
+    .portfolio-section {
+        margin-top: 6rem;
+
+    }
+
+    .portfolio-images {
+
+        flex-wrap: wrap;
+    }
+
+    .portfolio-images img {
+        width: 90%;
+    }
+}
+
+.portfolio-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
