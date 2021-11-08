@@ -138,7 +138,9 @@ a {
     }
 
     .intro-flex img {
-        width: 250px
+        width: 320px;
+        margin: auto;
+
     }
 
     .intro-tagline {
