@@ -2,11 +2,10 @@ import React, { Component } from 'react';
 import "./Testimonial.css"
 import "./../../App.css"
 import Testimonial2 from './Testimonial2';
-import Spong from "./../../images/spong.png"
-import {
-    pFImage
+import Spong from "./../../images/Male Japanese.png"
+import Spong0 from "./../../images/Paul.png"
+import Spong1 from "./../../images/Asian Female.png"
 
-} from "./../../images/images";
 class Testimonial extends Component {
     constructor(props) {
         super(props);
@@ -41,7 +40,7 @@ class Testimonial extends Component {
                         </div>
 
                         <div className="card">
-                            <div className="avtar"><img src={Spong} alt="ppl"></img></div>
+                            <div className="avtar"><img src={Spong0} alt="ppl"></img></div>
                             < div className="ppl-name">
                                 Alberto Donko
                             </div>
@@ -52,7 +51,7 @@ class Testimonial extends Component {
                         </div>
 
                         <div className="card">
-                            <div className="avtar"> <img src={Spong} alt="ppl"></img></div>
+                            <div className="avtar"> <img src={Spong1} alt="ppl"></img></div>
                             < div className="ppl-name">
                                 Alexander Parkinson
                             </div>

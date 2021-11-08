@@ -24,13 +24,13 @@ export default function Resume() {
                                     </div>
                                     <div>
                                         <div>
-                                            <div className="flex-edu ">  <span className="college-name">Senior Front End Developer - FULLTIME </span>
-                                                <span className="passing-year">2018-2021</span>
+                                            <div className="flex-edu ">  <span className="college-name">Front End Developer - FULLTIME </span>
+                                                <span className="passing-year">2013-2018</span>
                                             </div>
                                             <h4>Facebook </h4>
                                         </div>
                                         <div className="margin2top">
-                                            <div className="flex-edu ">  <span className="college-name">Senior Front End Developer - FULLTIME </span>
+                                            <div className="flex-edu ">  <span className="college-name">Front End Developer - FULLTIME </span>
                                                 <span className="passing-year">2018-2021</span>
                                             </div>
                                             <h4>Zomato </h4>
@@ -50,7 +50,7 @@ export default function Resume() {
 
                                     </div>
                                     <div>   <div className="flex-edu ">  <span className="college-name">Pune University </span>
-                                        <span className="passing-year">2018-2021</span>
+                                        <span className="passing-year">2009-2012</span>
                                     </div>
                                         <h4>Diploma in Computer Engineering</h4>
                                         <span>Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.</span>

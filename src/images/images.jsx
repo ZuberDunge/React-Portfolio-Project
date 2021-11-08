@@ -8,15 +8,11 @@ import JSImg from "./skills/js.svg";
 import NodeJsImg from "./skills/nodejs.svg";
 import BootstrapImg from "./skills/Bootstrap.svg";
 import MySkills from "./skills/myskills.svg";
-import Typing from "./Typing.gif";
-import HeaderImage from "./Header.svg";
 import Netlify from "./netlify.svg";
-import pFImage from "./image.PNG";
 import leftSide from "./left-side.png";
 import rightSide from "./right-side.png";
 import middleSide from "./middle-side-half.png";
 import Sitelogo from "./fav.ico.png";
-
 import port1 from "./port1.PNG";
 import port2 from "./port2.PNG";
 import port3 from "./port3.PNG";
@@ -35,9 +31,6 @@ export {
   middleSide,
   rightSide,
   Sitelogo,
-  Typing,
-  pFImage,
-  HeaderImage,
   Netlify,
   HtmlImg,
   CssImg,

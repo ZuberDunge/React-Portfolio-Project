@@ -41,7 +41,7 @@ class Contact extends Component {
                         </div>
                     </div>
 
-                    <form name="contact" method="POST" data-netlify="true">
+                    <form action="#" name="contact" data-netlify="true">
                         <h2>Send me a message</h2>
                         <p>
                             <label>
