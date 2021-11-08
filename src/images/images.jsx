@@ -12,9 +12,9 @@ import Typing from "./Typing.gif";
 import HeaderImage from "./Header.svg";
 import Netlify from "./netlify.svg";
 import pFImage from "./image.PNG";
-import leftSide from "./left-side.svg";
-import rightSide from "./right-side.svg";
-import middleSide from "./middle-side-half.svg";
+import leftSide from "./left-side.png";
+import rightSide from "./right-side.png";
+import middleSide from "./middle-side-half.png";
 import Sitelogo from "./fav.ico.png";
 
 import port1 from "./port1.PNG";
