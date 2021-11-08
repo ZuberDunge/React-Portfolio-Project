@@ -23,6 +23,8 @@ export default function Intro() {
                         <p>Get ready to turn ideas into reality</p>
                         <div className="buttonshire">   <span className="hire-me-btn"> <a href="#Contact" >Hire Me</a></span>
                             <span className="resume-btn"><a href="#Resume" >Get Resume</a></span> </div>
+
+                        <div className="author"><a target="_blank" rel="noreferrer" href="https://zuberdunge.tech/"> Zuber Dunge <i class="fas fa-external-link-alt"></i></a></div>
                     </div>
                     <img className="hero-img" src={leftSide} alt="Header" />
                 </div>

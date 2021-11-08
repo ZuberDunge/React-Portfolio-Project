@@ -150,5 +150,14 @@ a {
         font-size: 25px;
     }
 
-    .intro-div {}
+
+}
+
+.author a {
+    color: #FBF3E4;
+    transition: 0.3s;
+}
+
+.author a:hover {
+    color: #FCA738;
 }
