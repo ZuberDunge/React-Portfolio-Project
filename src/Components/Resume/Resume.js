@@ -15,21 +15,15 @@ export default function Resume() {
                             <div> <h2>My Work</h2>{" "}
                                 <hr />
                                 <div className="flex-education">
-                                    <div className="line-circle">
-                                        <div className="circleofline"></div>
-                                        <div className="lineofcircle"></div>
-                                        <div className="circleofline"></div>
-                                        <div className="lineofcircle"></div>
 
-                                    </div>
                                     <div>
-                                        <div>
+                                        <div className="work-flex">
                                             <div className="flex-edu ">  <span className="college-name">Front End Developer - FULLTIME </span>
                                                 <span className="passing-year">2013-2018</span>
                                             </div>
                                             <h4>Facebook </h4>
                                         </div>
-                                        <div className="margin2top">
+                                        <div className="margin2top work-flex2">
                                             <div className="flex-edu ">  <span className="college-name">Front End Developer - FULLTIME </span>
                                                 <span className="passing-year">2018-2021</span>
                                             </div>
@@ -44,17 +38,16 @@ export default function Resume() {
                             <div> <h2>Education</h2>{" "}
                                 <hr />
                                 <div className="flex-education">
-                                    <div className="line-circle">
-                                        <div className="circleofline"></div>
-                                        <div className="lineofcircle"></div>
 
-                                    </div>
-                                    <div>   <div className="flex-edu ">  <span className="college-name">Pune University </span>
-                                        <span className="passing-year">2009-2012</span>
-                                    </div>
+                                    <div className="work-flex" >
+                                        <div className="flex-edu ">  <span className="college-name">Pune University </span>
+                                            <span className="passing-year">2009-2012</span>
+                                        </div>
                                         <h4>Diploma in Computer Engineering</h4>
                                         <span>Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.</span>
-                                    </div></div></div>
+                                    </div>
+                                </div>
+                            </div>
 
                         </div>
                     </div>
